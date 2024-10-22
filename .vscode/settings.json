@@ -2,5 +2,7 @@
     "window.zoomLevel": 0,
     "jest.nodeEnv": {
         "NODE_OPTIONS": "--experimental-vm-modules"
-    }
+    },
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "apc.font.family": "JetBrainsMono Nerd Font"
 }
